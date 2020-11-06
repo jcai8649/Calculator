@@ -1,2 +1,2 @@
 # Calculator
-A calculator project for finding numbers.
+A calculator project for calculating numbers.
